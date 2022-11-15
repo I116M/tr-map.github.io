@@ -1,0 +1,102 @@
+@font-face {
+    font-family: "noto_sans";
+    font-weight: 100;
+    font-style: normal;
+    src: url("../fonts/noto_sans/NotoSans-Thin.eot?") format("eot"), url("../fonts/noto_sans/NotoSans-Thin.otf") format("opentype"), url("../fonts/noto_sans/NotoSans-Thin.woff") format("woff"), url("../fonts/noto_sans/NotoSans-Thin.woff2") format("woff2");
+}
+@font-face {
+    font-family: "noto_sans";
+    font-weight: 200;
+    font-style: normal;
+    src: url("../fonts/noto_sans/NotoSans-Light.eot?") format("eot"), url("../fonts/noto_sans/NotoSans-Light.otf") format("opentype"), url("../fonts/noto_sans/NotoSans-Light.woff") format("woff"), url("../fonts/noto_sans/NotoSans-Light.woff2") format("woff2");
+}
+@font-face {
+    font-family: "noto_sans";
+    font-weight: 300;
+    font-style: normal;
+    src: url("../fonts/noto_sans/NotoSans-DemiLight.eot?") format("eot"), url("../fonts/noto_sans/NotoSans-DemiLight.otf") format("opentype"), url("../fonts/noto_sans/NotoSans-DemiLight.woff") format("woff"), url("../fonts/noto_sans/NotoSans-DemiLight.woff2") format("woff2");
+}
+@font-face {
+    font-family: "noto_sans";
+    font-weight: 400;
+    font-style: normal;
+    src: url("../fonts/noto_sans/NotoSans-Regular.eot?") format("eot"), url("../fonts/noto_sans/NotoSans-Regular.otf") format("opentype"), url("../fonts/noto_sans/NotoSans-Regular.woff") format("woff"), url("../fonts/noto_sans/NotoSans-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: "noto_sans";
+    font-weight: 500;
+    font-style: normal;
+    src: url("../fonts/noto_sans/NotoSans-Medium.eot?") format("eot"), url("../fonts/noto_sans/NotoSans-Medium.otf") format("opentype"), url("../fonts/noto_sans/NotoSans-Medium.woff") format("woff"), url("../fonts/noto_sans/NotoSans-Medium.woff2") format("woff2");
+}
+@font-face {
+    font-family: "noto_sans";
+    font-weight: 700;
+    font-style: normal;
+    src: url("../fonts/noto_sans/NotoSans-Black.eot?") format("eot"), url("../fonts/noto_sans/NotoSans-Black.otf") format("opentype"), url("../fonts/noto_sans/NotoSans-Black.woff") format("woff"), url("../fonts/noto_sans/NotoSans-Black.woff2") format("woff2");
+}
+@font-face {
+    font-family: "noto_sans";
+    font-weight: 900;
+    font-style: normal;
+    src: url("../fonts/noto_sans/NotoSans-Bold.eot?") format("eot"), url("../fonts/noto_sans/NotoSans-Bold.otf") format("opentype"), url("../fonts/noto_sans/NotoSans-Bold.woff") format("woff"), url("../fonts/noto_sans/NotoSans-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Spoqa Han Sans";
+    font-weight: 700;
+    font-display: swap;
+    src: local("Spoqa Han Sans Bold"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Bold.woff2") format("woff2"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Bold.woff") format("woff"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Spoqa Han Sans";
+    font-weight: 500;
+    font-display: swap;
+    src: local("Spoqa Han Sans Medium"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Medium.woff2") format("woff2"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Medium.woff") format("woff"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Spoqa Han Sans";
+    font-weight: 400;
+    font-display: swap;
+    src: local("Spoqa Han Sans Regular"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Regular.woff2") format("woff2"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Regular.woff") format("woff"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Spoqa Han Sans";
+    font-weight: 300;
+    font-display: swap;
+    src: local("Spoqa Han Sans Light"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Light.woff2") format("woff2"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Light.woff") format("woff"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Light.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Spoqa Han Sans";
+    font-weight: 100;
+    font-display: swap;
+    src: local("Spoqa Han Sans Thin"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Thin.woff2") format("woff2"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Thin.woff") format("woff"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Thin.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Spoqa Han Sans Neo";
+    font-weight: 700;
+    font-display: swap;
+    src: local("Spoqa Han Sans Neo Bold"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Bold.woff2") format("woff2"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Bold.woff") format("woff"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Spoqa Han Sans Neo";
+    font-weight: 500;
+    font-display: swap;
+    src: local("Spoqa Han Sans Neo Medium"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Medium.woff2") format("woff2"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Medium.woff") format("woff"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Spoqa Han Sans Neo";
+    font-weight: 400;
+    font-display: swap;
+    src: local("Spoqa Han Sans Neo Regular"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Regular.woff2") format("woff2"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Regular.woff") format("woff"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Spoqa Han Sans Neo";
+    font-weight: 300;
+    font-display: swap;
+    src: local("Spoqa Han Sans Neo Light"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Light.woff2") format("woff2"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Light.woff") format("woff"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Light.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Spoqa Han Sans Neo";
+    font-weight: 100;
+    font-display: swap;
+    src: local("Spoqa Han Sans Neo Thin"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Thin.woff2") format("woff2"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Thin.woff") format("woff"), url("../fonts/spoqa_neo/SpoqaHanSansNeo-Thin.ttf") format("truetype");
+}
